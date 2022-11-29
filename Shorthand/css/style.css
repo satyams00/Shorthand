@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(128, 128, 128, 0.37);
+}
+.container-fluid{
+    padding: 0;
+}
+main{
+    padding: 0 16px;
+}
+.navbar{
+    margin-bottom: 0px !important;
+    padding: 0;
+}
+.navbar img{
+    padding: 5px;
+}
+.after-nav{
+    margin-bottom: 20px !important
+}
+.navbar ul li{
+    padding: 0 8px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.59);
+    font-weight: bold;
+}
+.navbar ul li a:hover{
+    color: rgba(255, 0, 0, 0.85);
+}
+
+.td-none{
+    text-decoration: none !important;
+}
